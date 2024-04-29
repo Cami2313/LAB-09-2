@@ -1,0 +1,25 @@
+.card-container {
+    background-image: linear-gradient(#f1eab9, #f6aaaa);
+    text-align: center;
+    padding: 1%;
+    font-family: Arial, sans-serif;
+    width: 420px;
+    height: 540px;
+    border-radius: 20px;
+}
+
+.card-container img {
+    width: 160px;
+    height: 200px;
+    margin: 1% 25% 1% 25%;
+}
+
+.card-container h2 {
+    background-image: linear-gradient(#ff0ac6, #ffc120);
+    background-clip: text;
+    color: transparent;
+}
+
+.card-container p {
+    color: rgb(118, 118, 118);
+}
